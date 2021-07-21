@@ -4,7 +4,8 @@
 - I created this Django web app to teach myself Django and learn about web apps. I am especially interested in this because I want to use web apps to deploy machine learning models.
 - This web app is a simple to do list
 
-[Software Demo Video](https://youtu.be/Z9MhUpVsyEc)
+# Demo Video
+[Video](https://youtu.be/Z9MhUpVsyEc)
 
 # Development Environment
 
