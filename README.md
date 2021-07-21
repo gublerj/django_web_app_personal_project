@@ -1,20 +1,38 @@
+
+# Overview
+
+{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+
+{Provide a description of your app.  Describe how to use the app.}
+
+{Describe your purpose for creating this app.}
+
+{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
+
+[Software Demo Video](http://youtube.link.goes.here)
+
+# Development Environment
+
+{Describe the tools that you used to develop the app}
+
+{Describe the programming language that you used and any libraries.}
+
+# Useful Websites
+* [Django for beginners](https://djangoforbeginners.com/pages-app/)
+* [Tutorial](https://www.youtube.com/watch?v=ovql0Ui3n_I)
+* [button help](https://stackoverflow.com/questions/7594348/i-want-a-button-on-my-website-that-will-execute-a-python-script)
+
+
+# Future Work
+
+* Combine
+* Item 2
+* Item 3
+
+
 - django-admin startproject todo_webapp_project
 
-Things to do:
-- https://www.youtube.com/watch?v=ovql0Ui3n_I
-11:40
-
-then use https://djangoforbeginners.com/pages-app/
-to make a seccond page
-
-
-peresonal_webapp_proj - idk
-1peresonal_webapp_proj - idk
-2peresonal_webapp_proj - 2 pages that work... used tutorial (need to delete)
-3peresonal_webapp_proj - coppied the last one so i could push to github
-4peresonal_webapp_proj - this one.. usisng the todo list youtuve tutoria;
-
-commands to set up venv and django (first navigate to the folder you want to work in)
+# Commands to set up venv and django (first navigate to the folder you want to work in)
 - py -m venv env
 - .\env\Scripts\activate
 - python -m pip install Django
@@ -22,12 +40,6 @@ commands to set up venv and django (first navigate to the folder you want to wor
 
 command to run server
 - python manage.py runserver
-
-sites
-- https://stackoverflow.com/questions/7594348/i-want-a-button-on-my-website-that-will-execute-a-python-script
-
-- https://djangoforbeginners.com/pages-app/
-(but I subbed out "pages" for "options")
 
 __condensing what I learned__
 To add a new webpage you need...
