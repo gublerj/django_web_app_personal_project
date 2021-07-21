@@ -23,6 +23,7 @@
 * Add user validation
 * Combine work from first web app iteration
 
+# Things / commands to remember
 
 #### Commands to set up venv and django (first navigate to the folder you want to work in)
 - py -m venv env
