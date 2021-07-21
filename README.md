@@ -1,21 +1,16 @@
 
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+- I created this Django web app to teach myself Django and learn about web apps. I am especially interested in this because I want to use web apps to deploy machine learning models.
+- This web app is a simple to do list
 
-{Provide a description of your app.  Describe how to use the app.}
-
-{Describe your purpose for creating this app.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Z9MhUpVsyEc)
 
 # Development Environment
 
-{Describe the tools that you used to develop the app}
-
-{Describe the programming language that you used and any libraries.}
+- I am using the Django framework in python
+- VScode is my editor
+- Im using a vertual environment
 
 # Useful Websites
 * [Django for beginners](https://djangoforbeginners.com/pages-app/)
@@ -24,23 +19,19 @@
 
 
 # Future Work
-
-* Combine work from first web app iteration
+* Create a webapp with a machine learning model deployed in it.
 * Add user validation
-* 
-- django-admin startproject todo_webapp_project
+* Combine work from first web app iteration
 
-# Commands to set up venv and django (first navigate to the folder you want to work in)
+
+#### Commands to set up venv and django (first navigate to the folder you want to work in)
 - py -m venv env
 - .\env\Scripts\activate
 - python -m pip install Django
 - py -m django --version
-
-command to run server
 - python manage.py runserver
 
-__condensing what I learned__
-To add a new webpage you need...
+#### Condensing what I learned about making new pages
 - create a .html file under 'templates'
 - fill that in with same html
 - in options/views.py add a new class with a new tamplate_name
