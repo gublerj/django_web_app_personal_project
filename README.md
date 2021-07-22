@@ -5,7 +5,7 @@
 - This web app is a simple to do list
 
 # Demo Video
-[Video](https://youtu.be/Z9MhUpVsyEc)
+# [Software Demo Video](https://youtu.be/Z9MhUpVsyEc)
 
 # Development Environment
 
